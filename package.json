@@ -1,0 +1,22 @@
+{
+  "name": "rocket-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "commander": "^2.20.0",
+    "massive": "^5.7.7",
+    "simple-ssh": "^1.0.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
